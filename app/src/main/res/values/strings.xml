@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">CalculatorOhmsLawV2</string>
     <string name="navigation_sub_title">LED Calculators</string>
+    <string name="ohm_s_law_calculator">Ohm\'s Law Calculator</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
