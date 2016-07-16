@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_framgent_one"
+            android:title="Main Grout temp" />
+        <item
+            android:id="@+id/navigation_framgent_two"
+            android:title="Main Grout temp" />
+        <item
+            android:id="@+id/navigation_framgent_three"
+            android:title="Main Grout temp" />
+
+        <item android:title="@string/navigation_sub_title">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:title="SubTitle Temp"/>
+                    <item
+                        android:title="SubTitle Temp"/>
+                </group>
+            </menu>
+        </item>
+    </group>
+
+</menu>
